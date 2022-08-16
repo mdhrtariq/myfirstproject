@@ -17,36 +17,3 @@ public class Main {
         }
     }
 }
-//        int id
-//    }
-////        int age =19;
-//
-//        if (age >= 18)
-//        {
-//            System.out.println("eligible for vote");
-//        }
-//        else if (age<=18)
-//        {
-//            System.out.println("not eligible for vote");
-//        }
-//    }
-//}
-
-//        for (int i = 0; i <= 10; i++) {
-//            for (int j = 1; j <= 1; j++) {
-//                System.out.println(i + "    " + j);
-//
-//
-//                }
-//
-//        }
-//        {
-//            int a = 12;
-//            int b = 15;
-//            System.out.println(a + b);
-//            System.out.println(12 + 15);
-//            System.out.println(45 - 35 / 2 * 8);
-//
-
-
-
